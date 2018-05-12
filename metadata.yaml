@@ -1,0 +1,44 @@
+_repo: A-Cathedral-Singer_15385
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ivanowski, Sigismond de
+    aliases:
+    - Ivanowski, Sigmund de
+    - De Ivanowski, Sigismond
+    birthdate: 1875
+    gutenberg_agent_id: '4578'
+    url: http://www.gutenberg.org/2009/agents/4578
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, James Lane
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '869'
+    url: http://www.gutenberg.org/2009/agents/869
+    wikipedia: http://en.wikipedia.org/wiki/James_Lane_Allen
+description: This uplifting novel penned by prominent Kentucky novelist James Lane
+  Allen reminds readers that the most beautiful things in art and in life are often
+  found in the most unexpected places. Young Ashby Truesdale has been blessed with
+  a singing voice of remarkable purity and earnestness, but his family is mired in
+  unspeakable poverty. Will he be able to overcome this hindrance to bring his creative
+  gift to the world?
+gutenberg_issued: '2005-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Cathedral of St. John the Divine (New York, N.Y.) -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Singers -- Fiction'
+- !lcsh 'Mothers and sons -- Fiction'
+title: A Cathedral Singer
+url: http://www.gutenberg.org/ebooks/15385
